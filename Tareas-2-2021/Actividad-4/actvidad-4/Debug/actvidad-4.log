@@ -1,4 +1,0 @@
-﻿  CSMemoriaGTI.cpp
-E:\Mis Archivos\Clases\ESTRUCTURA DE DATOS 1\PackED1\Tareas-2-2021\Actividad-4\CSMemoriaGTI.cpp(136,15): warning C4018: '<=': no coinciden signed/unsigned
-E:\Mis Archivos\Clases\ESTRUCTURA DE DATOS 1\PackED1\Tareas-2-2021\Actividad-4\CSMemoriaGTI.cpp(71): warning C4715: 'CSMemoriaGTI::New_Espacio': no todas las rutas de acceso de control devuelven un valor
-  actvidad-4.vcxproj -> E:\Mis Archivos\Clases\ESTRUCTURA DE DATOS 1\PackED1\Tareas-2-2021\Actividad-4\actvidad-4\Debug\actvidad-4.exe
